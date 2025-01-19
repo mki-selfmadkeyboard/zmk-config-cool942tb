@@ -1,0 +1,5 @@
+config SHIELD_COOL942TB_R
+    def_bool $(shields_list_contains,cool942tb_R)
+
+config SHIELD_COOL942TB_L
+    def_bool $(shields_list_contains,cool942tb_L)
