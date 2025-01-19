@@ -2,7 +2,7 @@ file_format: "1"
 id: cool942tb
 name: cool942tb
 type: shield
-url: https://github.com/kumamuk-git/zmk-config-cool942tb
+url: https://github.com/telzo2000/zmk-config-cool942tb
 requires: [seeeduino_xiao_ble]
 features:
   - keys
