@@ -10,7 +10,7 @@ manifest:
       revision: main
       import: app/west.yml
     - name: zmk-pmw3610-driver
-      remote: telzo2000
+      remote: inorichi
       revision: main
   self:
     path: config
