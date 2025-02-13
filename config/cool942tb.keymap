@@ -16,7 +16,7 @@
     combos {
         compatible = "zmk,combos";
 
-        tab {
+        comb1 {
             bindings = <&kp TAB>;
             key-positions = <14 15>;
         };
